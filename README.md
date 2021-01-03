@@ -1,7 +1,7 @@
 # erste-starter
+[Erste: Your first choice for hybrid mobile applications](https://github.com/dashersw/erste)
 
 ## Start project
-
 ```bash
 npm run dev
 ```
